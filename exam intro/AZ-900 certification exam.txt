@@ -1,0 +1,30 @@
+The Microsoft AZ-900 exam covers a basic understanding
+of Cloud concepts, including Core Azure
+services, security, privacy, compliance, and trust, as well as Azure
+pricing and support. You can expect between 40-60 questions in your
+Microsoft AZ 900 exam. There are different
+question types used during the exam,
+including case study, short answers, multiple choice, Mark review, and drag and drop. The exam requires you to demonstrate high
+level knowledge of the Azure Cloud and it's very service offerings across the following six domain areas. Describe Cloud concepts. Describe Core Azure services. Describe Core Solutions and
+management tools on Azure. Describe general security and
+network security features. Describe Identity, governance, privacy and compliance features. Describe Azure Cost Management and service level agreements. The percentages for
+each domain highlights the weighting of that
+section to the overall exam. The higher the percentage, the more questions
+that specific section of the exam will contain. At this point, you may be wondering if you
+will have access to the information
+that you'll need to successfully passed the
+Azure Fundamentals exam. The answer is yes. Each domain area is mapped to the Microsoft AZ-900 Azure Fundamentals Professional
+Certificate Program. Once you have
+successfully completed the courses in this
+specialization program, you will receive a
+notification that gives you an opportunity to unlock a discount Certification
+Voucher code. Once you've unlocked the code, you can use this to
+register and schedule the exam through Microsoft
+and Pearson View. The disk and Certification
+Voucher code gives you 50 percent discount on the price that it cost to take the AZ-900 Microsoft
+certification exam. Please note that the
+content of this exam was updated on November
+the 9th, 2020. Be sure to read the Microsoft Azure
+Fundamentals exam page for more information
+about what skills are covered in each domain area. Remember to contact us if
+you have any questions. Good luck with your preparation.
